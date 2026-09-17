@@ -1,18 +1,13 @@
 # Hello, I'm Raihan!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hey there! I'm Raihan, a Management Information Systems student at San Jose State University specializing in Cybersecurity and Security Operations. I have a deep passion for understanding modern attack vectors, analyzing endpoint and network telemetry, and building proactive threat detection workflows.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity is driven by hands-on execution and real-world defense. From working and interning with the security and application performance team at Cloudflare triaging WAF, DDoS, and application security threats, to automating AI-driven phishing detection workflows at ServiceNow, I focus on converting complex security data into swift, effective threat mitigation.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
